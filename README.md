@@ -23,7 +23,7 @@ KaseiCoinCrowdsaleDeployer contract compile:
 VIDEO: Deploy the KaseiCoinCrowdsaleDeployer contract:    
 ![deploy_deployer](Images/deploy_deployer.mov)
 
-The deployer creates contracts for the crowdsale and token, so they only need to be loaded from their addresses:    
+#### The deployer creates contracts for the crowdsale and token, so they only need to be loaded from their addresses:    
 VIDEO: Crowdsale:    
 ![load_crowdsale_token](Images/load_crowdsale_token.mov)
 
